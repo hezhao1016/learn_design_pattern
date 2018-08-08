@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.hz.design</groupId>
+    <artifactId>j2ee_pattern</artifactId>
+    <description>J2EE 模式</description>
+
+    <parent>
+        <groupId>com.hz.design</groupId>
+        <artifactId>learn_design_pattern</artifactId>
+        <version>1.0.0</version>
+    </parent>
+
+    <!-- 模块列表 -->
+    <modules>
+
+    </modules>
+
+</project>
