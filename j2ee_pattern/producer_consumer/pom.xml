@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hz.design</groupId>
-    <artifactId>product_consumer</artifactId>
+    <artifactId>producer_consumer</artifactId>
     <description>生产者/消费者模式</description>
 
     <parent>

@@ -1,4 +1,4 @@
-package com.hz.design.productconsumer;
+package com.hz.design.producerconsumer;
 
 /**
  * 测试

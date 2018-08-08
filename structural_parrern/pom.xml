@@ -6,8 +6,8 @@
 
     <groupId>com.hz.design</groupId>
     <artifactId>structural_parrern</artifactId>
-    <packaging>pom</packaging>
     <description>结构型模式</description>
+    <packaging>pom</packaging>
 
     <parent>
         <groupId>com.hz.design</groupId>
