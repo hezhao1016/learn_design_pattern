@@ -1,5 +1,11 @@
 package com.hz.design.builder;
 
+import com.hz.design.builder.builder.CarBuilder;
+import com.hz.design.builder.builder.MyCarBuilder;
+import com.hz.design.builder.director.CarDirector;
+import com.hz.design.builder.director.MyCarDirector;
+import com.hz.design.builder.pojo.Car;
+
 /**
  * 测试 建造者模式
  *
@@ -9,8 +15,11 @@ public class TestBuilder {
 
     public static void main(String[] args) {
 
+        CarBuilder carBuilder = new MyCarBuilder();
+        CarDirector carDirector = new MyCarDirector(carBuilder);
 
-
+        Car car = carDirector.directCar();
+        car.intro();
     }
 
 }

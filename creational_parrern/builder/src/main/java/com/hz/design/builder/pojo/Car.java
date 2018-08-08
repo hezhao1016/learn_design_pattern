@@ -16,6 +16,7 @@ public class Car {
     private Seat seat;
 
     public void intro() {
+        System.out.println("我在开汽车...");
         this.engine.intro();
         this.tyre.intro();
         this.seat.intro();

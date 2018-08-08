@@ -5,7 +5,7 @@ import com.hz.design.builder.pojo.Seat;
 import com.hz.design.builder.pojo.Tyre;
 
 /**
- * 汽车建造者
+ * 汽车建造接口
  *
  * Created by hezhao on 2018-08-08 18:28
  */
