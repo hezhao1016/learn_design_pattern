@@ -62,6 +62,7 @@
     拦截过滤器模式（Intercepting Filter Pattern）
     服务定位器模式（Service Locator Pattern）
     传输对象模式（Transfer Object Pattern）
+    生产者消费者模式（Product Consumer Pattern）
     
 #### 设计模式关系图
 ![](./files/the-relationship-between-design-patterns.jpg)

@@ -16,7 +16,30 @@
 
     <!-- 模块列表 -->
     <modules>
-
+        <!-- 责任链模式 -->
+        <module>chain_of_responsibility</module>
+        <!-- 命令模式 -->
+        <module>command</module>
+        <!-- 解释器模式 -->
+        <module>interpreter</module>
+        <!-- 迭代器模式 -->
+        <module>iterator</module>
+        <!-- 中介者模式 -->
+        <module>mediator</module>
+        <!-- 备忘录模式 -->
+        <module>memento</module>
+        <!-- 观察者模式 -->
+        <module>obsever</module>
+        <!-- 状态模式 -->
+        <module>state</module>
+        <!-- 空对象模式 -->
+        <module>null_object</module>
+        <!-- 策略模式 -->
+        <module>strategy</module>
+        <!-- 模板模式 -->
+        <module>template</module>
+        <!-- 访问者模式 -->
+        <module>visitor</module>
     </modules>
 
 </project>

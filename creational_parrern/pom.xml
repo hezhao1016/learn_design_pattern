@@ -16,7 +16,16 @@
 
     <!-- 模块列表 -->
     <modules>
-
+        <!-- 工厂模式 -->
+        <module>factory</module>
+        <!-- 抽象工厂模式 -->
+        <module>abstract_factory</module>
+        <!-- 单例模式 -->
+        <module>singleton</module>
+        <!-- 建造者模式 -->
+        <module>builder</module>
+        <!-- 原型模式 -->
+        <module>prototype</module>
     </modules>
 
 </project>

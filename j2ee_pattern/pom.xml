@@ -16,7 +16,24 @@
 
     <!-- 模块列表 -->
     <modules>
-
+        <!-- MVC 模式 -->
+        <module>mvc</module>
+        <!-- 业务代表模式 -->
+        <module>business_delegate</module>
+        <!-- 组合实体模式 -->
+        <module>composite_entity</module>
+        <!-- 数据访问对象模式 -->
+        <module>data_access_object</module>
+        <!-- 前端控制器模式 -->
+        <module>front_controller</module>
+        <!-- 拦截过滤器模式 -->
+        <module>intercepting_filter</module>
+        <!-- 服务定位器模式 -->
+        <module>service_locator</module>
+        <!-- 传输对象模式 -->
+        <module>transfer_object</module>
+        <!-- 生产者/消费者模式 -->
+        <module>product_consumer</module>
     </modules>
 
 </project>

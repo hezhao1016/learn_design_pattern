@@ -6,6 +6,7 @@
 
     <groupId>com.hz.design</groupId>
     <artifactId>structural_parrern</artifactId>
+    <packaging>pom</packaging>
     <description>结构型模式</description>
 
     <parent>
@@ -16,7 +17,22 @@
 
     <!-- 模块列表 -->
     <modules>
-
+        <!-- 适配器模式 -->
+        <module>adapter</module>
+        <!-- 桥接模式 -->
+        <module>bridge</module>
+        <!-- 过滤器模式 -->
+        <module>filter</module>
+        <!-- 组合模式 -->
+        <module>composite</module>
+        <!-- 装饰器模式 -->
+        <module>decorator</module>
+        <!-- 外观模式 -->
+        <module>facade</module>
+        <!-- 享元模式 -->
+        <module>flyweight</module>
+        <!-- 代理模式 -->
+        <module>proxy</module>
     </modules>
 
 </project>
