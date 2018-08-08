@@ -32,7 +32,7 @@
         <!-- 享元模式 -->
         <module>flyweight</module>
         <!-- 代理模式 -->
-        <module>proxy</module>
+        <module>proxys</module>
     </modules>
 
 </project>
