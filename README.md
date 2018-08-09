@@ -62,7 +62,7 @@
     拦截过滤器模式（Intercepting Filter Pattern）
     服务定位器模式（Service Locator Pattern）
     传输对象模式（Transfer Object Pattern）
-    生产者消费者模式（Product Consumer Pattern）
+    生产者消费者模式（Producer Consumer Pattern）
     
 #### 设计模式关系图
 ![](./files/the-relationship-between-design-patterns.jpg)
@@ -91,3 +91,9 @@
 6. 合成复用原则（Composite Reuse Principle）
 
     合成复用原则是指：尽量使用合成/聚合的方式，而不是使用继承。
+    
+#### 参考网址
+- [设计模式 | 菜鸟教程](http://www.runoob.com/design-pattern/design-pattern-tutorial.html)    
+- [Java 设计模式 - 月光中的污点](https://www.extlight.com/search/?keyword=%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)    
+- [java 23种设计模式 深入理解 - 码农闯天下 - 博客园](http://www.cnblogs.com/foryang/p/5849402.html)    
+- [Java开发中的23种设计模式详解(转) - maowang - 博客园](http://www.cnblogs.com/maowang1991/archive/2013/04/15/3023236.html)    

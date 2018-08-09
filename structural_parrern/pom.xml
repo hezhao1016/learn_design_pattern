@@ -22,7 +22,7 @@
         <!-- 桥接模式 -->
         <module>bridge</module>
         <!-- 过滤器模式 -->
-        <module>filter</module>
+        <module>criteria</module>
         <!-- 组合模式 -->
         <module>composite</module>
         <!-- 装饰器模式 -->

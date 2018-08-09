@@ -1,6 +1,5 @@
 package com.hz.design.builder;
 
-import com.hz.design.builder.builder.CarBuilder;
 import com.hz.design.builder.builder.MyCarBuilder;
 import com.hz.design.builder.director.CarDirector;
 import com.hz.design.builder.director.MyCarDirector;
@@ -15,8 +14,7 @@ public class TestBuilder {
 
     public static void main(String[] args) {
 
-        CarBuilder carBuilder = new MyCarBuilder();
-        CarDirector carDirector = new MyCarDirector(carBuilder);
+        CarDirector carDirector = new MyCarDirector(new MyCarBuilder());
 
         Car car = carDirector.directCar();
         car.intro();
