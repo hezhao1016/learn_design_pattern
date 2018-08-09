@@ -2,6 +2,7 @@ package com.hz.design.command;
 
 /**
  * 厨师类
+ * Invoker：执行请求命令的执行者。
  *
  * Created by hezhao on 2018-08-09 17:15
  */

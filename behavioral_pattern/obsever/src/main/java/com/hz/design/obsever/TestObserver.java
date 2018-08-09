@@ -1,11 +1,11 @@
-package com.hz.design.iterator;
+package com.hz.design.obsever;
 
 /**
- * 测试
+ * 测试 观察者模式
  *
  * Created by hezhao on 2018-08-08 16:01
  */
-public class Test {
+public class TestObserver {
 
     public static void main(String[] args) {
 

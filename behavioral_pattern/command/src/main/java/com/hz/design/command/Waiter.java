@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * 服务员
+ * Receiver：请求命令接收者。
  *
  * Created by hezhao on 2018-08-09 17:18
  */
