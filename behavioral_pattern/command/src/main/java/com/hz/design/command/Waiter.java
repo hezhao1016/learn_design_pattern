@@ -42,7 +42,7 @@ public class Waiter {
     public void notifyChef() {
         System.out.println("服务员" + this.name + "通知厨师做菜");
         System.out.println("==================================");
-        this.orderList.forEach(e -> e.action());
+        this.orderList.forEach(Command::action);
     }
 
 }
