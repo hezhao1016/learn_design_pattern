@@ -1,4 +1,4 @@
-package com.hz.design.obsever;
+package com.hz.design.obsever.pull;
 
 /**
  * 观察者（Observer）：接口或抽象类。当 Subject 的状态发生变化时，Observer 对象将通过一个 callback 函数得到通知。

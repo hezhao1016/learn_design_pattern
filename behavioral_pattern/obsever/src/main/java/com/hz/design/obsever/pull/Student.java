@@ -1,4 +1,4 @@
-package com.hz.design.obsever;
+package com.hz.design.obsever.pull;
 
 /**
  *
@@ -22,6 +22,8 @@ public class Student implements Observer{
                 action = "继续打牌";
                 break;
         }
+
+        System.out.println(action);
     }
 
     public String getAction() {
