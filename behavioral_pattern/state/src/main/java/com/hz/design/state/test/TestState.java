@@ -2,6 +2,7 @@ package com.hz.design.state.test;
 
 import com.hz.design.state.Context;
 import com.hz.design.state.StartState;
+import com.hz.design.state.State;
 import com.hz.design.state.StopState;
 
 /**
@@ -15,12 +16,12 @@ public class TestState {
 
         Context context = new Context();
 
-        StartState startState = new StartState();
+        State startState = new StartState();
         startState.doAction(context);
 
         System.out.println(context.getState().toString());
 
-        StopState stopState = new StopState();
+        State stopState = new StopState();
         stopState.doAction(context);
 
         System.out.println(context.getState().toString());
